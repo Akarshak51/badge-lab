@@ -54,3 +54,8 @@ Made with love by Akarshak
 - Improved code formatting
 - Added error handling examples
 
+
+
+## Acknowledgments
+
+- Special thanks to all contributors
