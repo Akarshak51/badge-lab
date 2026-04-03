@@ -20,3 +20,10 @@ cd badge-lab
 ## Credits
 
 Made with love by Akarshak
+
+## Bug Fixes
+
+- Fixed typos in documentation
+- Improved code formatting
+- Added error handling examples
+
