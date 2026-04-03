@@ -59,3 +59,8 @@ Made with love by Akarshak
 ## Acknowledgments
 
 - Special thanks to all contributors
+
+
+## License
+
+This project is open source.
