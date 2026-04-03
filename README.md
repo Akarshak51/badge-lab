@@ -35,6 +35,13 @@ Made with love by Akarshak
 - Improved load times
 
 
+## Security
+
+- Added security best practices
+- Implemented input validation
+- Added vulnerability reporting guidelines
+
+
 ## Bug Fixes
 
 - Fixed typos in documentation
