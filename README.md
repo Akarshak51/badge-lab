@@ -21,6 +21,13 @@ cd badge-lab
 
 Made with love by Akarshak
 
+## Documentation
+
+- Added contribution guidelines
+- Updated usage examples
+- Added FAQ section
+
+
 ## Bug Fixes
 
 - Fixed typos in documentation
