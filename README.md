@@ -28,6 +28,13 @@ Made with love by Akarshak
 - Added FAQ section
 
 
+## Performance
+
+- Optimized README structure
+- Reduced file size
+- Improved load times
+
+
 ## Bug Fixes
 
 - Fixed typos in documentation
