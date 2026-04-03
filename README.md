@@ -42,6 +42,12 @@ Made with love by Akarshak
 - Added vulnerability reporting guidelines
 
 
+
+## Contributors
+
+- Added new contributors section
+- Acknowledged community help
+
 ## Bug Fixes
 
 - Fixed typos in documentation
