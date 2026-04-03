@@ -14,3 +14,9 @@ A test repository for earning GitHub achievement badges
 git clone https://github.com/Akarshak51/badge-lab.git
 cd badge-lab
 ```
+
+
+
+## Credits
+
+Made with love by Akarshak
